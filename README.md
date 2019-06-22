@@ -1,0 +1,1 @@
+# test-wpcom-payments-sponsorship
